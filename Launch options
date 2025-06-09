@@ -1,0 +1,1 @@
+-allow_third_party_software -novid -high -refresh 180 +dev +exec autoexec.cfg -netconport 19841
